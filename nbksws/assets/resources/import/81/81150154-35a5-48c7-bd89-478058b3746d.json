@@ -1,1 +1,1 @@
-[1,0,0,[["cc.TextAsset",["_name","text"],1]],[[0,0,1,3]],[[0,"细节场景表","string\tstring\tstring\tstring\r\nid\tname\tinfo\timg\r\n1\t卧室的柜子\t\t\r\n2\t卧室的电视机\t\t\r\n3\t卧室的第三个柜子\t\t\r\n4\t卧室的门关闭\t\t\r\n5\t卧室的门开启\t\t\r\n"]],0,0,[],[],[]]
+[1,0,0,[["cc.TextAsset",["_name","text"],1]],[[0,0,1,3]],[[0,"细节场景表","string\tstring\tstring\tstring\t\r\nid\t名字\t信息\t背景\t点击效果\r\n1\t卧室的柜子\t\t\t\r\n2\t卧室的第一个柜子\t\t\t\r\n3\t卧室的第二个柜子\t\t\t\r\n4\t卧室的第三个柜子\t\t\t\r\n5\t卧室的电视机\t\t\t\r\n6\t卧室的门关闭\t\t\t\r\n7\t卧室的门开启\t\t\t\r\n8\t散落的全家福\t\t\t拼图游戏\r\n"]],0,0,[],[],[]]
